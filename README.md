@@ -5,6 +5,7 @@ Website ini adalah sebuah website note 🚀
 
 ## 📂 Struktur Repository
 📁 fe - Folder yang berisi Frontend website menggunakan react.js
+
 📁 be - Folder yang berisi Backend website menggunakan node.js
 
 ## 🚀 Cara Clone Repository
